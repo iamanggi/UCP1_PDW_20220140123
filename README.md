@@ -30,4 +30,4 @@ Homify menyediakan beragam produk furnitur, mulai dari sofa, kursi, lemari, hing
 
 ## 🔗 Links github pages
 
-
+https://iamanggi.github.io/UCP1_PDW_20220140123/
